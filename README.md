@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=" https://telegra.ph/file/d672b39bc341e7e8ae01a.jpg" alt="TBomb"></a>
+  <a href=" https://telegra.ph/file/d672b39bc341e7e8ae01a.jpg" alt="HelloBomb"></a>
   <br>
   TBomb v2.1b
   <br>
